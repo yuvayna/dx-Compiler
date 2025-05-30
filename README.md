@@ -1,6 +1,6 @@
 # dx-Compiler
 
-## Simple Compiler by dx
+## Simple Compiler by yuvayna
 
 
 
@@ -24,7 +24,7 @@ To deploy the Simple Compiler locally, follow these steps:
 1 - **Clone the repository** to your local machine using the following command:
 
 `bash
-git clone https://github.com/eerieweb/dx-Compiler.git`
+git clone https://github.com/yuvayna/dx-Compiler.git`
 
 `cd dx-Compiler`
 
@@ -68,7 +68,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 ・Fork the repository on GitHub.
 
-・Clone your forked repository (git clone https://github.com/eerieweb/dx-Compiler.git).
+・Clone your forked repository (git clone https://github.com/yuvayna/dx-Compiler.git).
 
 ・Create a new branch (git checkout -b feature/your-feature).
 
@@ -84,7 +84,7 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 
 ## Contact
-For inquiries or support regarding this project, please contact dx at svetlana@eerie.pro.
+For inquiries or support regarding this project, please contact yuvayna at contact@yuvayna.com.
 
 
 
